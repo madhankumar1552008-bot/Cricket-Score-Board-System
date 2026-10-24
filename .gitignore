@@ -1,0 +1,20 @@
+# Compiled output
+out/
+bin/
+*.class
+
+# Data created while running the app
+match_history.csv
+sources.txt
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
